@@ -1,7 +1,7 @@
-#Starter web project for GIT Training
+# Starter web project for GIT Training
 
-##Itroduction
+## Itroduction
 
-##Purpose
+## Purpose
 
-##How to Contribute
+## How to Contribute
